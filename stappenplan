@@ -1,0 +1,19 @@
+# Data fetching met axios stappenplan
+
+- [o] JS & HTML files maken
+- [o] JavaScript script file linken: <script src="main.js"></script>
+- [o] NPM init // krijg je package.json
+- [o] git init // werk bijhouden
+- [o] .gitignore maken
+- [o] Axios installeren: npm install axios
+- [o] Axios script linken: <script src="./node_modules/axios/dist/axios.min.js"></script> // boven de <script src="main.js"></script> want de volgorde wel uitmaakt
+- [x] Een async functie maken en aanroepen
+- [x] Request maken met axios
+- [x] "Afwachten" tot de data er is
+- [x] Data weergeven in de dom
+  - [x] Lijst maken met een id (HTML)
+  - [x] Lijst selecteren
+  - [x] Voor elke element in de array:
+    - [x] een li aanmaken
+    - [x] textContent toevoegen
+    - [x] li appenden

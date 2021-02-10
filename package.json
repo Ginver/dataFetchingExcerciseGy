@@ -1,0 +1,14 @@
+{
+  "name": "datafetchingoefenengy",
+  "version": "1.0.0",
+  "description": "\"data fetching excersize\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gigi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
